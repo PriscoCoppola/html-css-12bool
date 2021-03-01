@@ -1,0 +1,39 @@
+/* Framework */
+[class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* General */
+body {
+    margin: 5rem 0;
+    text-align: center;
+    text-transform:uppercase;
+    background-color: lightcoral;
+}
+
+h1 {
+    margin: 2rem 0;
+}
+
+.box {
+    height: 25px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.black {
+    background-color: #000;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+.red {
+    background-color: #ce0000;
+}
+
+.pink {
+    background-color: #e76363;
+}

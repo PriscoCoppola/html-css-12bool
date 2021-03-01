@@ -6,10 +6,10 @@
 
 /* General */
 body {
-    margin: 5rem 0;
+    /* margin: 5rem 0; */
     text-align: center;
     text-transform:uppercase;
-    background-color: lightcoral;
+    background-color: lightgreen;
 }
 
 h1 {
@@ -19,9 +19,18 @@ h1 {
 .box {
     height: 25px;
     background-color: #fff;
-    border: 1px solid #000;
+    /* border: 1px solid   #000; */
 }
 
+.border {
+    border: 5px solid #000;
+}
+
+.footer {
+    margin: 2rem 0;
+}
+
+/* Background */
 .black {
     background-color: #000;
 }
@@ -36,4 +45,8 @@ h1 {
 
 .pink {
     background-color: #e76363;
+}
+
+.white {
+    background-color: #fff;
 }

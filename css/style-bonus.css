@@ -6,7 +6,6 @@
 
 /* General */
 body {
-    /* margin: 5rem 0; */
     text-align: center;
     text-transform:uppercase;
     background-color: lightgreen;
@@ -19,11 +18,10 @@ h1 {
 .box {
     height: 25px;
     background-color: #fff;
-    /* border: 1px solid   #000; */
 }
 
 .border {
-    border: 5px solid #000;
+    border: 10px solid #000;
 }
 
 .footer {

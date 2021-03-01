@@ -16,7 +16,7 @@ FRAMEWORK 12 BOOL
 }
 
 .container::after {
-    content: ''
+    content: '';
     display: table;
     clear: both;
 }
